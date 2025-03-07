@@ -58,7 +58,7 @@ hr {
 }
 
 .card-body > p {
-    color: orange;
+    color: #144754;
     font-size: 18px;
     font-weight: 700px;
 }
@@ -71,7 +71,7 @@ hr {
 }
 
 .social a i:hover {
-    color: orange;
+    color: #144754;
 }
 
 .Heading {
@@ -113,7 +113,7 @@ hr {
     text-align: center;
     font-size: 32px;
     color: #fff !important;
-    background: orange;
+    background: #144754;
     line-height: 60px;
     border-radius: 60px;
     margin-bottom: 20px;
