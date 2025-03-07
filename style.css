@@ -78,7 +78,7 @@ hr {
     font-size: 25px;
     font-weight: 900;
     display: flex;
-    border-left: solid 2px orange;
+    border-left: solid 2px #144754;
     padding-left: 20px;
 }
 }
